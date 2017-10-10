@@ -1,0 +1,18 @@
+Year,Congener Number,Congener CAS#,Congener Name,Congener Abbreviation,Toxic Equivalency Factor (TEF),TEF Year
+2011,1,001746016,"2,3,7,8-Tetrachlorodibenzo- p-dioxin","2,3,7,8-TCDD",1,2005
+2011,2,040321764,"1,2,3,7,8-Pentachlorodibenzo- p-dioxin","1,2,3,7,8-PeCDD1",1,2005
+2011,3,039227286,"1,2,3,4,7,8-Hexachlorodibenzo- p-dioxin","1,2,3,4,7,8-HxCDD",.1,2005
+2011,4,057653857,"1,2,3,6,7,8-Hexachlorodibenzo- p-dioxin","1,2,3,6,7,8-HxCDD",.1,2005
+2011,5,019408743,"1,2,3,7,8,9-Hexachlorodibenzo- p-dioxin","1,2,3,7,8,9-HxCDD",.1,2005
+2011,6,035822469,"1,2,3,4,6,7,8-Heptachlorodibenzo- p-dioxin","1,2,3,4,6,7,8-HpCDD",.01,2005
+2011,7,003268879,"1,2,3,4,6,7,8,9-Octachlorodibenzo- p-dioxin","1,2,3,4,6,7,8,9-OCDD",.0003,2005
+2011,8,051207319,"2,3,7,8-Tetrachlorodibenzofuran 2,3,7,8-TCDF","2,3,7,8-TCDF",.1,2005
+2011,9,057117416,"1,2,3,7,8-Pentachlorodibenzofuran 1,2,3,7,8-PeCDF","1,2,3,7,8-PeCDF",.03,2005
+2011,10,057117314,"2,3,4,7,8-Pentachlorodibenzofuran 2,3,4,7,8-PeCDF","2,3,4,7,8-PeCDF",.3,2005
+2011,11,070648269,"1,2,3,4,7,8-Hexachlorodibenzofuran 1,2,3,4,7,8-HxCDF","1,2,3,4,7,8-HxCDF",.1,2005
+2011,12,057117449,"1,2,3,6,7,8-Hexachlorodibenzofuran 1,2,3,6,7,8-HxCDF","1,2,3,6,7,8-HxCDF",.1,2005
+2011,13,072918219,"1,2,3,7,8,9-Hexachlorodibenzofuran 1,2,3,7,8,9-HxCDF","1,2,3,7,8,9-HxCDF",.1,2005
+2011,14,060851345,"2,3,4,6,7,8-Hexachlorodibenzofuran 2,3,4,6,7,8-HxCDF","2,3,4,6,7,8-HxCDF",.1,2005
+2011,15,067562394,"1,2,3,4,6,7,8-Heptachlorodibenzofuran 1,2,3,4,6,7,8-HpCDF","1,2,3,4,6,7,8-HpCDF",.01,2005
+2011,16,055673897,"1,2,3,4,7,8,9-Heptachlorodibenzofuran 1,2,3,4,7,8,9-HpCDF","1,2,3,4,7,8,9-HpCDF",.01,2005
+2011,17,039001020,"1,2,3,4,6,7,8,9-Octachlorodibenzofuran 1,2,3,4,6,7,8,9-OCDF","1,2,3,4,6,7,8,9-OCDF",.0003,2005
